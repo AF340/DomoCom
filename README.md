@@ -13,6 +13,12 @@ Functionnalities:
 
 Important: For Lumi or Prog, if no action was initialized before your first one, restart the app to active the timer (not activated if no Lumi or Prog)
 
+V138
+Add HomeCheck management
+Add Internal alarm detector
+Add auto connect wifi
+Add text order (send/receive orders)
+
 ** FR **
 
 Prendre connaissance de Y.A.N.A (http://projet.idleman.fr/yana/?page=Accueil)
