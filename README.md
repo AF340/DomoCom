@@ -1,4 +1,6 @@
 # DomoCom
+# Visit us on https://m.facebook.com/DomoComDIY/
+
 Android App to Automate and drive Y.A.N.A server 
 
 First acknowledge Y.A.N.A (http://projet.idleman.fr/yana/?page=Accueil)
@@ -13,11 +15,15 @@ Functionnalities:
 
 Important: For Lumi or Prog, if no action was initialized before your first one, restart the app to active the timer (not activated if no Lumi or Prog)
 
-V138
+V196
 - Add HomeCheck management
 - Add Internal alarm detector
 - Add auto connect wifi
 - Add text order (send/receive orders)
+- Add MultiActions
+- Add Action on detection
+
+Registration needed
 
 ** FR **
 
@@ -33,6 +39,7 @@ Fonctionnalités:
 
 Important: Si aucune action Lumi ou prog n'etait programmée avant, redemarrer l'app pour activer le timer (désactivé pas défaut si pas de programme).
 
+Enregistrement nécessaire
 
 
 
