@@ -15,6 +15,16 @@ Functionnalities:
 
 Important: For Lumi or Prog, if no action was initialized before your first one, restart the app to active the timer (not activated if no Lumi or Prog)
 
+V206
+- Manage actions from YANA if removed, associated associated action into DomoCom unlinked
+- Relay text from RPI to admin 
+- Rewrite HomeCheck plugin to manage people/alarm/Radio and GPIO Device (TX/RX)
+
+Next Step: 
+- Associate BackupCamIP interface
+- Activate/Desactivate manually Alarm from DomoCOm
+
+
 V196
 - Add HomeCheck management
 - Add Internal alarm detector
